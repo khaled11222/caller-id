@@ -1,0 +1,8 @@
+{
+  "name": "Caller ID",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "cd72e4ee"
+}
